@@ -1,14 +1,22 @@
 # MailSender-V2 - Sistema de Envio Automatizado de E-mails com Integração ao Google Sheets  
 **Autor:** Pablo Víctor  
 **Data:** Maio de 2025  
+
+**Contexto e Importância do Projeto**
+
+A segunda versão do MailSender teve um papel muito importante na minha trajetória profissional. Na época, eu havia assumido o departamento de certificação digital havia cerca de quatro meses, enquanto ainda atuava também na área de TI do mesmo escritório.
+
+Apesar de ser um projeto simples, seu alto índice de sucesso foi o que me abriu as portas para explorar e me aprofundar no universo das automações internas.
+Graças a esse código, alcançamos um aumento considerável (cerca de 30%) na taxa de respostas dos clientes, já que antes as mensagens eram enviadas manualmente via WhatsApp. Além disso, o sistema contribuiu significativamente para o aumento nas vendas e para um melhor controle dos prazos dos clientes.
+
 ---
 
 ## 1. Visão Geral
 
 O **MailSender** é um sistema desenvolvido em **Google Apps Script** para automação do envio de e-mails personalizados, integrado diretamente ao **Google Sheets**.  
 O objetivo é otimizar a comunicação com clientes e colaboradores, enviando mensagens automáticas com base em dados extraídos de uma planilha hospedada no Google Sheets.
-
 O sistema foi projetado para facilitar o controle de **vencimento de certificados digitais**, automatizando o envio de lembretes e relatórios de status — tornando o processo rápido, seguro.
+
 ---
 
 ## 2. Funcionalidades
