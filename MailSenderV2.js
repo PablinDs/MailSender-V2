@@ -1,3 +1,4 @@
+// CÓDIGO ADAPTADO POR IA
 function enviarEmails() {
 
   // CONFIGURAÇÕES GERAIS
